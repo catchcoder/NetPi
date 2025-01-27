@@ -2,7 +2,7 @@
 # -------------------------------------------------------
 sudo apt-get update
 sudo apt-get install lighttpd php7.0 php7.0-cgi php7.0-common
-sudo apt-get install cdpr dia ethtool iperf lldpd speedtest-cli  zenmap
+sudo apt-get install cdpr dia ethtool iperf lldpd speedtest-cli  # zenmap # no zenmap in repo
 sudo apt-get install matchbox-keyboard
 # during next install, when asked select '<Yes>' or do so later: sudo dpkg-reconfigure wireshark-common
 sudo apt-get install wireshark
